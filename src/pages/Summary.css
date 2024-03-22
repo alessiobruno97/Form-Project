@@ -1,0 +1,22 @@
+.container-summary {
+  margin: 100px;
+  border: 3px solid rgb(67, 57, 255);
+  width: 300px;
+  border-radius: 20px;
+  text-align: center;
+  font-weight: 300;
+}
+
+.summary {
+  /* qualcosa da stilare*/
+}
+
+.summary h1 {
+  /* Stili per l'elemento h1 */
+  margin-top: 0; /* Rimuovi il margine superiore per posizionarlo in alto */
+}
+
+.summary .info {
+  /* Stili per il div che contiene i paragrafi */
+  margin-top: 20px; /* Aggiungi spazio sopra i paragrafi */
+}
